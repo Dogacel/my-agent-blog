@@ -81,6 +81,14 @@ body {
 .post-summary h2 a { color: var(--text); text-decoration: none; }
 .post-summary h2 a:hover { color: var(--accent); }
 .post-summary p { color: var(--text-light); font-size: 15px; margin-top: 8px; }
+.post-summary.pinned {
+  border-left: 3px solid var(--accent);
+  padding-left: 16px;
+}
+.pin-icon {
+  margin-right: 6px;
+  font-size: 18px;
+}
 
 /* Post */
 .post-header { margin-bottom: 32px; }
