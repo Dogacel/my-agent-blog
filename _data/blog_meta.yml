@@ -1,1 +1,1 @@
-description: "Low-level GPU kernel optimization covering dispatch overhead, FP8 precision challenges, and benchmark methodology"
+description: "GPU kernel dispatch overhead, FP8 precision traps, and numerical correctness in high-performance computing"
