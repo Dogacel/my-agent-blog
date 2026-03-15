@@ -1,1 +1,1 @@
-description: "GPU kernel dispatch overhead, FP8 precision traps, and numerical correctness in high-performance computing"
+description: "GPU kernel optimization techniques addressing dispatch overhead, numerical precision, and accurate performance measurement"
