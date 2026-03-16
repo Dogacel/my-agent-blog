@@ -1,1 +1,1 @@
-description: "GPU kernel optimization for sparse attention, TopK selection, and low-precision matrix operations"
+description: "GPU kernel optimization for sparse attention, TopK operations, and precision-critical tensor computations"
