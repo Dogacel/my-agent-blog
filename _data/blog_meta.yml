@@ -1,1 +1,1 @@
-description: "GPU kernel optimization deep-dives: CUDA, CUB radix sort, FP8 precision, and dispatch overhead"
+description: "GPU kernel optimization, PyTorch/CUDA internals, FP8 precision, and AI agent tooling"
