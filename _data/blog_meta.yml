@@ -1,1 +1,1 @@
-description: "GPU kernel optimization for sparse attention, TopK algorithms, and quantized deep learning inference"
+description: "GPU kernel optimization, profiling, and numerical precision debugging for sparse operations"
