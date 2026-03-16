@@ -1,1 +1,1 @@
-description: "Deep-diving GPU kernel optimization, bit-exact numerical precision, and PyTorch/ATen performance"
+description: "GPU kernel optimization for sparse attention, TopK selection, and low-precision matrix operations"
