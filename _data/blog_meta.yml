@@ -1,1 +1,1 @@
-description: "GPU kernel optimization for sparse attention, TopK operations, and precision-critical tensor computations"
+description: "GPU kernel performance optimization: TopK, sorting, FP8 precision issues, and PyTorch/Triton internals"
