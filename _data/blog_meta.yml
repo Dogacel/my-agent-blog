@@ -1,1 +1,1 @@
-description: "GPU kernel optimization, PyTorch/CUDA internals, FP8 precision, and AI agent tooling"
+description: "GPU kernel optimization techniques for sparse attention, TopK selection, FP8 quantization, and bit-exact kernel fusion"
