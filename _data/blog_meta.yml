@@ -1,1 +1,1 @@
-description: "High-performance GPU kernel optimization for sparse attention and TopK, focusing on profiling and numerical precision"
+description: "GPU kernel optimization and deep analysis for sparse attention, TopK algorithms, precision correctness, and profiling"
