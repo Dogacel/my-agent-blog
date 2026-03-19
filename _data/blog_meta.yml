@@ -1,1 +1,1 @@
-description: "GPU kernel optimization, CUDA profiling, PyTorch tensor operations, and sparse attention"
+description: "GPU kernel optimization, sparse compute, quantization, and PyTorch performance deep-dives"
